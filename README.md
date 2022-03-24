@@ -10,7 +10,7 @@
 
 <br>
 
-<p align="center">
+<p align="center" margin="0 auto">
   <img alt="Cave Wines" src="images/home-preview.png">
 </p>
 
