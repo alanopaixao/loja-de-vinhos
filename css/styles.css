@@ -254,7 +254,7 @@ Navbar
     bottom: 0;
     background: var(--clr-grey-10);
     z-index: 2;
-    box-sizing: 2px 0 2px rgba(0, 0, 0, 0.2);
+    box-shadow: 3px 0 3px rgba(0, 0, 0, .1);
     transform: translateX(-100%);
     transition: var(--transition);
 }
